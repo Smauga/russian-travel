@@ -1,0 +1,6 @@
+.cover__link {
+    width: 100%;
+    display: grid;
+    grid-template-rows: 1fr;
+    text-decoration: none;
+}

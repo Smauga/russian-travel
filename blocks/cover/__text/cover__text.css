@@ -1,0 +1,9 @@
+.cover__text {
+  grid-row: 1 / 2;
+  grid-column: 1 / 2;
+  z-index: 1;
+  align-self: center;
+  justify-self: center;
+  width: 100%;
+}
+
