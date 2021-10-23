@@ -5,10 +5,11 @@
   text-decoration: none;
   opacity: 1;
   transition: opacity 0.4s ease;
+  margin-right: 18px;
 }
 
-.header__lang-link:first-child {
-  margin-right: 18px;
+.header__lang-link:last-child {
+  margin-right: 0;
 }
 
 .header__lang-link:hover {

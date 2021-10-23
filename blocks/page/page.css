@@ -1,10 +1,12 @@
 .page {
-  width: 100%;
+  max-width: 1440px;
   background-color: #2a2c2f;
   display: flex;
   flex-direction: column;
+  margin: 0 auto;
   align-items: center;
   font-family: 'Inter', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }

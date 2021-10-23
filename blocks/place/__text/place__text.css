@@ -1,10 +1,5 @@
-.place__text {
-    
-}
-
-
 @media screen and (max-width: 767px){
     .place__text {
-      margin: 0 3%;
+      margin: 0 5%;
     }
   }
