@@ -5,6 +5,7 @@
   color: white;
   margin: auto;
   text-align: center;
+  font-weight: 900;
 }
 
 @media screen and (max-width: 992px){
